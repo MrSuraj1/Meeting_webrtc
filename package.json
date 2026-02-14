@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "express": "^5.2.1",
+    "http": "^0.0.1-security",
+    "react-router-dom": "^7.13.0",
+    "socket": "^1.1.63",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "tailwindcss": "^4.1.18"
+  }
+}
